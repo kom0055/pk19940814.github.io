@@ -1,17 +1,17 @@
-## Welcome to Peng Kun's Tech Blog
+## **Welcome to Peng Kun's Tech Blog**
 
 
-Code a better day.
+_Code a better day._
 
 
 
 
 
 ```markdown
-**apple$**  sudo rm  fucking days
-_[Password:  _
-**apple$**  sudo rm  fucking days
-_sudo rm fucking days: No such file or directory_
+apple$  sudo rm  fucking days
+[Password:  
+apple$  sudo rm  fucking days
+sudo rm fucking days: No such file or directory
 
 
 
@@ -27,6 +27,6 @@ _sudo rm fucking days: No such file or directory_
 
 
 
-### Contact Me
+### **Contact Me**
 
 email: pk19940814@gmail.com
