@@ -9,7 +9,7 @@ _Code a better day._
 
 ```markdown
 apple$  sudo rm  fucking days
-[Password:  
+[ Password:  
 apple$  sudo rm  fucking days
 sudo rm fucking days: No such file or directory
 
