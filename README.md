@@ -8,23 +8,16 @@ Code a better day.
 
 
 ```markdown
-Syntax highlighted code block
+**apple$**  sudo rm  fucking days
+_[Password:  _
+**apple$**  sudo rm  fucking days
+_sudo rm fucking days: No such file or directory_
 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
--Bullted ~
-~
 
 
-**Bold** and _Italic_ and `Code` text
+
+
 
 
 ```
