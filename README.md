@@ -1,7 +1,7 @@
 # **Welcome to Peng Kun's Tech Blog**
 
 
-##_Code a better day._
+_Code a better day._
 
 
 
