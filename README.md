@@ -4,29 +4,13 @@
 _Code a better day._
 
 
-
-
-
 ```markdown
 apple$  sudo rm  fuckingdays
 Password:  
 apple$  sudo rm  fuckingdays
 sudo rm fuckingdays: No such file or directory
 
-
-
-
-
-
-
-
-
-
-
 ```
-
-
-
 
 
 ### **Contact Me**
